@@ -1,0 +1,5 @@
+primary_alb_dns   = "primary-alb-123.us-east-1.elb.amazonaws.com"
+primary_alb_zone_id = "Z35SXDOTRQ7X7K"
+secondary_alb_dns = "secondary-alb-456.us-west-2.elb.amazonaws.com"
+secondary_alb_zone_id = "Z1H1FL5HABSF5"
+sns_email = "ops@example.com"
